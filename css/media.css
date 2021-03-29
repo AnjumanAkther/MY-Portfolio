@@ -1,0 +1,638 @@
+/* extra small device start */
+@media(max-width:575.98px){
+body{
+    overflow-x: hidden;
+}
+.sec-header h1 ,.sec-header-2 h1{
+    font-size:40px;
+}
+/* header strat  */
+.topbar{
+    padding: 0px;
+}
+.topbar h2 {
+    font-size: 8px;
+}
+.top-btn {
+    font-size: 8px;
+    margin-top: 7px;
+    margin-left: 14px;
+    padding-left: 10px;
+}
+.topbar-a {
+    border-right: 2px solid #405d7500;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.topbar-icon a i {
+    font-size: 7px;
+    margin: 16px 0px 0px
+}
+.navbar-brand{
+    width:25%;
+}
+/* header end  */
+/* banner start */
+.ban-text {
+    padding-top: 50px;
+}
+.ban-text h1 {
+    font-size: 18px;
+}
+.ban-text h4 {
+    font-size: 35px;
+}
+.ban-text h4 span{
+    font-size: 35px;
+    height: 130px;
+}
+.ban-text a {
+    font-size: 12px;
+    margin-bottom: 100px;
+}
+/* banner end */
+/* about start */
+.about .sec-header {
+    padding: 100px 0px 60px;
+}
+.abt-overlay {
+    padding-bottom: 120px;
+}
+.abt-text {
+    padding-top:0px;
+}
+.abt-img {
+    margin-top:50px;
+}
+/* about end */
+/* service start */
+.ser-img {
+    width:100%;
+}
+/* service end */
+/* project start */
+.project-menu {
+    display: block;
+    text-align: center;
+}
+.project-menu li {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #245D75;
+    text-transform: capitalize;
+    padding: 2px 0px;
+    margin: 2px 44px;
+    cursor: pointer;
+    transition: .6s !important;
+    -webkit-transition: .6s !important;
+    -moz-transition: .6s !important;
+    -ms-transition: .6s !important;
+    -o-transition: .6s !important;
+}
+.project {
+    padding:90px 0px 90px;
+}
+.pro-btn {
+    margin-top: 30px;
+    width: 67% !important;
+    margin-left: 15% !important;
+}
+.pro-btn a {
+    font-size: 8px;
+}
+/* project end */
+/* testimonial start */
+.test-overlay{
+    padding: 90px 0px 60px;
+}
+.slide-img{
+    width: 100px;
+ height: 92%;
+    margin-bottom: 0px;
+    text-align: center !important;
+}
+.slick-box p{
+    font-size: 10px;
+}
+.s-p{
+    font-size: 16px !important;
+}
+.slick-prev {
+    left: 0px !important;
+}
+.slick-next {
+    right: -44px !important;
+}
+.slick-slider{
+    padding: 30px 0px 30px;
+}
+.slick-dots li button::before {
+    width: 5px !important ;
+    height: 5px !important;
+}
+/* testimonial end */
+/* quality start */
+.sec-header-2 p {
+    font-size: 14px;
+    padding: 30px 0px;
+}
+.type-3 {
+font-size: 30px;
+}
+.quality-box p {
+    font-size:11px;
+}
+.quality-box i {
+    font-size: 11px;
+    margin-right: 5px;
+}
+.quality-col {
+    margin-left:15%;
+}
+/* quality end */
+/* contact start */
+.con-img img {
+    width: 20%;
+}
+.con-p-1 {
+    font-size: 14px;
+}
+.con-p-2 {
+    font-size: 14px;
+}
+/* contact end */
+/* footer start */
+.footer a {
+    font-size: 13px;
+}
+/* footer end */
+.fixed-btn{
+    bottom:10px !important;
+    right:40px;
+    border: transparent;
+  }
+.fixed-btn i {
+    font-size: 20px;
+}
+}
+/* extra small device end */
+
+/* small device start */
+@media(min-width:576px) and (max-width:767.98px){
+
+    .sec-header h1 ,.sec-header-2 h1{
+        font-size:40px;
+    }
+    /* header strat  */
+    .topbar{
+        padding: 0px;
+    }
+    .topbar h2 {
+        font-size: 10px;
+    }
+    .top-btn {
+        font-size: 10px;
+        margin-top: 6px;
+        margin-left: 60px;
+    }
+    .topbar-a {
+        border-right: 2px solid #405d7500;
+        margin-right: 60px;
+        margin-top: 10px;
+    }
+    .topbar-icon a i {
+        font-size: 10px;
+        margin: 16px 1px 0px
+    }
+    .navbar-brand{
+        width:20%;
+    }
+    /* header end  */
+    /* banner start */
+    .ban-text {
+        padding-top: 150px;
+    }
+    .ban-text h1 {
+        font-size: 18px;
+    }
+    .ban-text h4 {
+        font-size: 35px;
+    }
+    .ban-text h4 span{
+        font-size: 35px;
+        height: 130px;
+    }
+    .ban-text a {
+        font-size: 12px;
+        margin-bottom: 100px;
+    }
+    /* banner end */
+    /* about start */
+    .about .sec-header {
+        padding: 100px 0px 60px;
+    }
+    .abt-overlay {
+        padding-bottom: 100px;
+    }
+    .abt-text {
+        padding-top:0px;
+    }
+    .abt-text h5 {
+        font-size: 10px;
+        letter-spacing: 0px;
+        line-height: 17px;
+        margin-bottom: 20px;
+    }
+    .abt-text p {
+        font-size: 18px;
+    }
+  .abt-text p span{
+      font-size: 27px;
+      line-height: 25px;
+  }
+    .abt-img {
+        margin-top:0px;
+    }
+    /* about end */
+    /* service start */
+    .service {
+        padding: 100px 0px 110px;
+    }
+    .ser-img {
+        width:100%;
+        height: 160px;
+    }
+    /* service end */
+    /* project start */
+    .project {
+        padding:100px 0px 100px;
+    }
+    .project-box img{
+        width: 100%;
+
+    }
+    .pro-btn {
+        margin-top: 30px;
+        width: 67% !important;
+        margin-left: 17% !important;
+    }
+    .pro-btn a {
+        font-size: 8px;
+    }
+    /* project end */
+    /* testimonial start */
+    .test-overlay{
+        padding: 90px 0px 60px;
+    }
+    .slide-img{
+        width: 100px;
+        height: 92px;
+        margin-bottom: 0px;
+        text-align: center !important;
+    }
+    .slick-box p{
+        font-size: 10px;
+    }
+    .s-p{
+        font-size: 16px !important;
+    }
+    .slick-prev {
+        left: 0px !important;
+    }
+    .slick-next {
+        right: -44px !important;
+    }
+    .slick-slider{
+        padding: 30px 0px 30px;
+    }
+    .slick-dots li button::before {
+        width: 5px !important ;
+        height: 5px !important;
+    }
+    /* testimonial end */
+    /* quality start */
+    .sec-header-2 p {
+        font-size: 14px;
+        padding: 30px 0px;
+    }
+    .type-3 {
+    font-size: 30px;
+    }
+    .quality-box p {
+        font-size:11px;
+    }
+    .quality-box i {
+        font-size: 11px;
+        margin-right:1px;
+    }
+    .quality-col {
+
+    }
+    /* quality end */
+    /* contact start */
+    .con-img img {
+        width:40%;
+    }
+    .con-h2 {
+        font-size: 13px;
+    }
+    .con-p-1 {
+        font-size: 12px;
+    }
+    .con-p-2 {
+        font-size: 12px;
+    }
+    .con-btn {
+        font-size: 12px;
+    }
+    /* contact end */
+    /* footer start */
+    .footer a {
+        font-size: 13px;
+    }
+    /* footer end */
+}
+/* small device  end */
+
+/* medium device start */
+@media(min-width:768px) and (max-width:991.98px){
+    .sec-header h1 ,.sec-header-2 h1{
+        font-size:40px;
+    }
+    /* header strat  */
+    .topbar{
+        padding: 0px;
+    }
+    .topbar h2 {
+        font-size: 10px;
+    }
+    .top-btn {
+        font-size: 10px;
+        margin-top: 6px;
+        margin-left: 60px;
+    }
+    .topbar-a {
+        border-right: 2px solid #405d7500;
+        margin-right: 60px;
+        margin-top: 10px;
+    }
+    .topbar-icon a i {
+        font-size: 10px;
+        margin: 16px 1px 0px
+    }
+    .navbar-brand{
+        width:15%;
+    }
+    /* header end  */
+    /* banner start */
+    .ban-text {
+        padding-top: 150px;
+    }
+    .ban-text h1 {
+        font-size: 18px;
+    }
+    .ban-text h4 {
+        font-size: 35px;
+    }
+    .ban-text h4 span{
+        font-size: 35px;
+        height: 130px;
+    }
+    .ban-text a {
+        font-size: 12px;
+        margin-bottom: 100px;
+    }
+    /* banner end */
+    /* about start */
+    .about .sec-header {
+        padding: 100px 0px 60px;
+    }
+    .abt-overlay {
+        padding-bottom: 100px;
+    }
+    .abt-text {
+        padding-top:0px;
+    }
+    .abt-text h5 {
+        font-size: 10px;
+        letter-spacing: 0px;
+        line-height: 17px;
+        margin-bottom: 20px;
+    }
+    .abt-text p {
+        font-size: 18px;
+    }
+    .abt-text p span{
+      font-size: 27px;
+      line-height: 25px;
+  }
+    .abt-img {
+        margin-top:0px;
+    }
+    /* about end */
+    /* service start */
+    .service {
+        padding: 100px 0px 110px;
+    }
+    .ser-img {
+        width:100%;
+        height: 160px;
+    }
+    /* service end */
+    /* project start */
+    .project {
+        padding:100px 0px 100px;
+    }
+    .project-box img{
+        width: 100%;
+
+    }
+    .pro-btn {
+        margin-top: 30px;
+        width: 67% !important;
+        margin-left: 17% !important;
+    }
+    .pro-btn a {
+        font-size: 8px;
+    }
+    .project-menu{
+        display: none;
+    }
+    .project-menu li {
+        font-size: 18px;
+        padding: 7px 5px;
+        margin: 0px 5px;
+    }
+    /* project end */
+    /* testimonial start */
+    .test-overlay{
+        padding: 90px 0px 60px;
+    }
+    .slide-img{
+        width: 100px;
+        height: 92px;
+        margin-bottom: 0px;
+        text-align: center !important;
+    }
+    .slick-box p{
+        font-size: 10px;
+    }
+    .s-p{
+        font-size: 16px !important;
+    }
+    .slick-prev {
+        left: 0px !important;
+    }
+    .slick-next {
+        right: -44px !important;
+    }
+    .slick-slider{
+        padding: 30px 0px 30px;
+    }
+    .slick-dots li button::before {
+        width: 5px !important ;
+        height: 5px !important;
+    }
+    /* testimonial end */
+    /* quality start */
+    .sec-header-2 p {
+        font-size: 14px;
+        padding: 30px 0px;
+    }
+    .type-3 {
+    font-size: 30px;
+    }
+    .quality-box p {
+        font-size:11px;
+    }
+    .quality-box i {
+        font-size: 12px;
+        margin-right:1px;
+    }
+    .quality-col {
+
+    }
+    /* quality end */
+    /* contact start */
+    .con-img img {
+        width:31%;
+    }
+    .con-h2 {
+        font-size: 13px;
+    }
+    .con-p-1 {
+        font-size: 12px;
+    }
+    .con-p-2 {
+        font-size: 12px;
+    }
+    .con-btn {
+        font-size: 12px;
+    }
+    /* contact end */
+    /* footer start */
+    .footer a {
+        font-size: 13px;
+    }
+    /* footer end */
+}
+/* medium device end */
+
+/* large device start */
+@media(min-width:992px) and (max-width:1199.98px){
+    .topbar{
+        padding: 5px;
+    }
+    .topbar h2 {
+        font-size: 13px;
+    }
+    .top-btn {
+        font-size: 13px;
+        margin-top: 6px;
+        margin-left: 60px;
+    }
+    .topbar-a {
+        border-right: 2px solid #405d75;
+        margin-right: 60px;
+        margin-top: 10px;
+    }
+    .topbar-icon a i {
+        font-size: 13px;
+        margin: 16px 4px 0px
+    }
+    .navbar-nav {
+        padding-top: 10px;
+        margin-left: 0px !important;
+    }
+    .nav-bar-btn {
+        margin-left: 21px !important;
+    }
+    .navbar-brand{
+        width:15%;
+    }
+    /* header end  */
+    /* banner start */
+    .ban-text {
+       padding: 170px 0px;
+    }
+    .abt-img {
+        margin-top:50px;
+    }
+    /* banner end */
+
+      /* service start */
+      .service {
+        padding: 100px 0px 110px;
+      }
+    .ser-img {
+        width:100%;
+    }
+    /* service end */
+    /* project start */
+    .pro-btn {
+        margin-top: 30px;
+        width: 67% !important;
+        margin-left: 17.10% !important;
+    }
+    /* project end */
+        /* quality start */
+        .quality-box p {
+            font-size:15px;
+        }
+        .quality-box i {
+            font-size: 15px;
+            margin-right:1px;
+        }
+        /* quality end */
+        /* contact start */
+        .con-img img {
+            width: 22%;
+        }
+        /* contact end */
+        .fixed-btn{
+            bottom:10px !important;
+            right:22px;
+            border: transparent;
+          }
+        .fixed-btn i {
+            font-size: 20px;
+        }
+}
+/* large device end */
+
+/* extra large devices start  */
+@media(min-width:1200px) and (max-width:1399.98px){}
+/* extra large devices end  */
+
+/* Custom (landscape phones,1400px) start */
+@media(min-width:1400px) and (max-width:1599.98px){}
+/* Custom (landscape phones,1400px) end*/
+
+/* custom devices (landscape phones, 1600px) start */
+@media(min-width:1600px) and (max-width:1799.98px){}
+/* custom devices (landscape phones, 1600px) end */
+
+/* Custom devices (landscape phones, 1800px start */
+@media(min-width:1800px){}
+/* Custom devices (landscape phones, 1800px end */
